@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "Omer YALHI",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/express": "^4.16.1",
     "nodemon": "^1.19.0",
